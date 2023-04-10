@@ -42,7 +42,7 @@ https://huggingface.co/join
 
 ### 4. 輸入以下指令複製你的專案下來到本機。注意路徑。
 
-git clone https://huggingface.co/spaces/你的帳號名稱/你的專案名稱
+  git clone https://huggingface.co/spaces/你的帳號名稱/你的專案名稱
 
 <div align="center">
   <img src="demo/hg3.png" width="600"/>
@@ -50,18 +50,18 @@ git clone https://huggingface.co/spaces/你的帳號名稱/你的專案名稱
 
 ### 5. 輸入以下指令複製我提供的專案下來到本機。注意路徑。
 
-git clone https://github.com/pyfbsdk59/Gradio-ChatGPT3.5-Spaces
+  git clone https://github.com/pyfbsdk59/Gradio-ChatGPT3.5-Spaces
 
 
 ### 6. 複製我的專案內的app.py和requirements.txt到你的專案內覆蓋過去。
 
 ### 7. 依序輸入以下指令（確定先裝好Git）（在你的專案資料夾內的路徑下操作）
 
-git add .
+  git add .
 
-git commit -m "first commit"
+  git commit -m "first commit"
 
-git push
+  git push
 
 ### 8. 輸入Hugging Face的帳號和密碼。等個幾秒就會完成，顯示網頁。
 
